@@ -74,7 +74,7 @@ As you work through your project, we recommend taking an approach in which you u
 
 ### Project Requirements
 
-To complete the project you must submit a zip file containing your project, which will include Python code (>=3.6) that implements your project. Your project must include (at least) one Jupyter notebook and one python file (a module file and/or a python script). The Jupyter notebook file will minimially include a description of the project and code that demonstrates your project, organized in cells.
+To complete the project you must submit a zip file containing your project, which will include Python code (>=3.6) that implements your project. Your project must include (at least) one Jupyter notebook and one python file (a module file and/or a python script). The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
 
 The actual code for the project can be organized into either the notebook, and/or into python files, as either module files and/or scripts. Exactly where and how you organize the code can and should be decided by the project topic itself. For example, projects that are more focused on functions and classes may be more organized into a module organization. For some projects, the code may be well organized into a script that executes your project. For other projects, with more interactive components, much of the code may be presented within the Jupyter notebook. Regardless of the project, the design should be modular and include original code.
 
@@ -183,6 +183,10 @@ You must include *at least two* code tests in your project that test your origin
 *Extra Credit (up to 4%)*
 
 For extra credit, if you go above and beyond on the minimal project requirements and challenge yourself to approach a project that is more complex than the basic requirements, requires you to learn something beyond what was taught in the course, or uses code concepts not taught in class, explain this at the end of your Jupyter notebook. Here, you should explain _why_ your approach was particularly difficult/challenging _for you_ and how your work goes beyond the minimal project requirements.  
+
+*GitHub Extra Credit (1%)*
+
+For extra credit, if you put your project in a public repo on GitHub, you will earn 1% extra credit on the project.
 
 ### External Code
 
