@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
----
-
 # Project FAQ
 
 This document is meant to answer a number of commonly-asked questions about the COGS 18 final project. We hope you find it helpful as you develop your awesome projects!
