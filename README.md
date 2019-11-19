@@ -8,5 +8,6 @@
 - Ahrial : https://github.com/chasethewind/dndDMG
 - Myles : https://github.com/MylesWright/cogs18_final
 
-#### Sprint 2019
+#### Spring 2019
 - Sarah: https://github.com/SarahAmiraslani/Draw-to-Learn
+- Byungkwon: https://github.com/chrishan0106/cogs18_final
