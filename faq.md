@@ -44,7 +44,7 @@ For submitting your final projects, you will zip up all the files for your proje
 Check to make sure you imported your function before trying to call it. You will need to import any functions you write if you want to use them.
 
 #### I am trying to import specific functions from my module, but it says that my module does not exist?
-Check the location of the file that contains your functions. If your my_functions.py file is within a folder (let's say called `modules;/`), you would need to call `from modules.my_functions import func1, func2` instead of just   `import mmy_functions`.
+Check the location of the file that contains your functions. If your my_functions.py file is within a folder (let's say called `modules/`), you would need to call `from modules.my_functions import func1, func2` instead of just   `import my_functions`.
 
 More resources for importing modules:
 https://docs.python.org/3/tutorial/modules.html

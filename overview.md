@@ -57,8 +57,9 @@ This quarter, the Taboo Topics for the COGS18 final project are:
 
 - Hangman
 - Drawings from Turtle
+- Tic-tac-toe
 
-Now, if you have a great or interesting idea that puts a new spin on Hangman or are super interested in doing something with Turtle, reach out to Professor Ellis and ask for an exception. You'll have to explain your idea. And, if approved, you'll be able to work on your taboo topic of choice!
+Now, if you have a great or interesting idea that puts a new spin on a a taboo topic, reach out to Professor Ellis and ask for an exception. You'll have to explain your idea. And, if approved, you'll be able to work on your taboo topic of choice!
 
 ### Project Scope
 
