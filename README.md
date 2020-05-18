@@ -12,6 +12,6 @@
 - Sarah: https://github.com/SarahAmiraslani/Draw-to-Learn
 - Byungkwon: https://github.com/chrishan0106/cogs18_final
 
-#### Fall 2020
+#### Fall 2019
 - Jitarth:  https://github.com/jshethbright/PokedexPy
 - Geoff: Coming Soon

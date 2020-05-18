@@ -181,7 +181,7 @@ Documentation will be evaluated in terms of:
 
 You must include *at least two* code tests in your project that test your original functions/methods. These should be organized into a test file, in a test folder, and use `pytest`. These tests should be a unit test of your custom functions and/or classes in your project, and should test that the code executes and that at least some of the expected outputs of the function are returned, given some specified inputs.
 
-*Extra Credit (up to 4%)*
+*Extra Credit (*up to* 4%)*
 
 For extra credit, if you go above and beyond on the minimal project requirements and challenge yourself to approach a project that is more complex than the basic requirements, requires you to learn something beyond what was taught in the course, or uses code concepts not taught in class, explain this at the end of your Jupyter notebook. Here, you should explain _why_ your approach was particularly difficult/challenging _for you_ and how your work goes beyond the minimal project requirements.  
 
