@@ -1,0 +1,10 @@
+Requirements for my program:
+
+
+-The module 'pygame' must be installed
+
+-The image folder must not be moved from its position within this folder in order to render the sprite animation.
+	
+* the folder 'images' should be found at MyProjectFolder/images/
+
+Thanks!

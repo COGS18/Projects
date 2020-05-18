@@ -13,11 +13,11 @@ The broad objectives of this project are for you to:
 
 ### Project Schedule
 
-- W7: Project Description released
+- W8: Project Description released
 - W8: By the end of this week, you must have a project topic / outline
-- W8-10: Work on the project
-  - Coding Lab during Weeks 9 and 10 will provide you with time to work on and get help with your Final Project.
-- **Finals Week: projects due (11:59 PM, Wednesday, December 11th)**
+- W9-10: Work on the project
+  - Coding Lab during Weeks 8-10 will provide you with time to work on and get help with your Final Project.
+- **Finals Week: projects due (11:59 PM, Friday, June 12th)**
 
 ### Getting Started
 
