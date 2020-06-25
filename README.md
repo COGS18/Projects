@@ -1,7 +1,7 @@
 
 # Projects
 
-### Previous Examples of COGS18 Projects
+### Previous Examples of COGS 18 Projects
 
 #### Fall 2018
 - Stephen : https://github.com/COGS18/Projects/tree/master/Stephen_Fa18
