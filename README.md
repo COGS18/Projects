@@ -7,7 +7,7 @@ These projets are all strong projects from previous iterations of COGS 18. (Whil
 
 Note: All students whose work is included here gave explicit consent for their GitHub links/projects to be shared. 
 
-#### Spring 2019
+#### Spring 2020
 - Katherine: https://github.com/klbaker/battleship.git
 - Tia: https://github.com/tixichen/gravity-falls-decrypt-facts
 - Alex: https://github.com/AlexCheng7/Password_Encoder_Decoder
