@@ -3,9 +3,19 @@
 
 ### Previous Examples of COGS 18 Projects
 
-These projets are all strong projects from previous iterations of COGS 18. (While they did not necessarily earn full credit, they are all good examples to look at to get a sense of what others have done and what our expecations are for strong final projects in COGS 18.)
+These projects are all strong projects from previous iterations of COGS 18. (While they did not necessarily earn full credit, they are all good examples to look at to get a sense of what others have done and what our expectations are for strong final projects in COGS 18.)
 
 Note: All students whose work is included here gave explicit consent for their GitHub links/projects to be shared. 
+
+#### Fall 2020
+- Erica: https://github.com/cogsciQueen
+- Jillian: https://github.com/jacarter1/pseudobar/tree/main/JC_FA20_Pseudobar
+- James: https://github.com/jpchen01/MazeGame
+- Andrew F.: https://github.com/AndrewFellowes/DnD-Game
+- Andrew K.: https://github.com/AndrewKahr/pyplus/
+- Aditi: https://github.com/Aditikk00/Cogs18-final
+- Charles: https://github.com/Charlychee/Course-Prerequisite-Finder
+- Ethan: https://github.com/EthanWadsworth/File_Preprocessing_Utilities
 
 #### Spring 2020
 - Katherine: https://github.com/klbaker/battleship.git

@@ -1,6 +1,6 @@
 # Final Project
 
-As part of completing COGS 18, you must complete an independent project. This final project is worth 15% of your grade for the course.
+As part of completing COGS 18, you must complete an independent project. This final project is worth 21% of your grade for the course.
 
 ### Objectives
 
@@ -16,8 +16,8 @@ The broad objectives of this project are for you to:
 - W8: Project Description released
 - W8: By the end of this week, you must have a project topic / outline
 - W9-10: Work on the project
-  - Coding Lab during Weeks 8-10 will provide you with time to work on and get help with your Final Project.
-- **Finals Week: projects due (11:59 PM, Friday, June 12th)**
+  - Coding Lab during Weeks 9-10 will provide you with time to work on and get help with your Final Project.
+- **Finals Week: projects due (11:59 PM, Mon, Dec 14th)**
 
 ### Getting Started
 
@@ -58,6 +58,9 @@ This quarter, the Taboo Topics for the COGS18 final project are:
 - Hangman
 - Drawings from Turtle
 - Tic-tac-toe
+- Blackjack
+- Magic 8 Ball
+- Rock, Paper, Scissors
 
 Now, if you have a great or interesting idea that puts a new spin on a a taboo topic, reach out to Professor Ellis and ask for an exception. You'll have to explain your idea. And, if approved, you'll be able to work on your taboo topic of choice!
 
@@ -149,10 +152,7 @@ The code you wrote to implement your design will be graded on the following requ
 - Uses appropriate code constructs (operators, conditionals, loops, error handling, etc)
 - Code is organized into functions (necessary) and/or classes (optional)
   - You do not necessarily need to use classes (only if they make sense for the project) 
-  - Must include at least:
-    - 3 original functions
-    - OR 2 orginal classes, each with at least 1 method
-    - OR 2 original functions + 1 original class
+  - Must include at least 3 original functions or methods
 - The code executes, without raising any errors, on expected inputs
 - There is a clear modular organization to the code
 
@@ -187,7 +187,7 @@ For extra credit, if you go above and beyond on the minimal project requirements
 
 *GitHub Extra Credit (1%)*
 
-For extra credit, if you put your project in a public repo on GitHub, you will earn 1% extra credit on the project.
+For extra credit, if you put your project in a public repo on GitHub, you will earn 1% extra credit on the project. (Note: This should be the *unzipped* version of your project, so that others on GitHub can see your code.)
 
 ### External Code
 

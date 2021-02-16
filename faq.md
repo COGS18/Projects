@@ -22,7 +22,7 @@ You should mention if you installed any new packages via pip for your project th
 Use pip in the terminal. The command will look something like: `pip install --user package`.
 
 #### Is there a set number of functions or classes we need to include?
-You need at least 3 original functions, 2 original classes, or 2 original functions + 1 original class.
+You need at least 3 original functions or methods. There is no class requirement. (For example, you could have a single class with 3 methods. Or, no classes and 3 separate functions.)
 
 #### Can I write my entire project code into one class?
 Yes, as long as the class includes a modular design where there are multiple independent methods.
@@ -69,8 +69,8 @@ This is fine as long as you cite your sources with a comment and write at least 
 #### Where should I include docstrings and comments?
 Your module with your functions should have docstrings for functions and inline comments as needed. The Notebook would likely then (depending on your project) have a description of your project in a markdown cell, import your functions, and then run your main function to demonstrate how your project works. If you choose to run your project using a script rather than a Notebook, the Notebook should contain a short description of the project and a line of code that runs your script, such as `%run -i 'script.py'` or `!python script.py`. Note that test functions don’t require docstrings, but including them is fine.
 
-#### Do we need a docstring for init functions of classes?
-Depends on how complicated your init function is. Can the reader tell at a glance what the init function is doing or which class variables are being set and why? If not, maybe describe those variables in code documentation and have a simple method comment that says "Class constructor for class Foo." When in doubt, make comments!
+#### Do we need a docstring for `__init__` functions of classes?
+Depends on how complicated your `__init__` function is. Can the reader tell at a glance what the init function is doing or which class variables are being set and why? If not, maybe describe those variables in code documentation and have a simple method comment that says "Class constructor for class Foo." When in doubt, make comments!
 
 #### For a class docstring, there is a methods section to list the methods of the class. Is it necessary to have a short description of those methods again in the class docstring since there are methods docstrings?
 No need to describe the methods; just describe what the class is used for briefly. Repetitions can be avoided.
@@ -83,10 +83,10 @@ https://numpydoc.readthedocs.io/en/latest/format.html#documenting-class-instance
 ## Testing
 
 #### How many tests are needed? Do we need tests for only one function or for all of them in the project?
-You need to test at least two functions or classses, using at least two test functions. These tests should be for your original code.
+You need to test at least three methods/functions, using at least three test functions. These tests should be for your original code.
 
 #### I used a function from Assignment X, and I was wondering if I could make a test for that one rather than a function I wrote.
-You may also (and are encouraged to) write test these functions as well; however, your two required tests must test your original code.
+You may also (and are encouraged to) write test these functions as well; however, your three required tests must test your original code.
 
 #### Do we need to import our test functions into our script/Notebook?
 You can leave them in the test file; however, it's recommended that you use `pytest` to ensure all your tests pass.
@@ -134,6 +134,9 @@ We don't care so much about how difficult/complex your code is as we do care to 
 
 #### Do we have to be present on the day that our final is scheduled?
 No, all you need to do is make sure to turn in your final project.
+
+#### How do I specify extra credit?
+There is an extra credit opportunity on the final project. If you go above and beyond the requirements of the project and/or teach yourself something new in the process of completing the final project, explain this in the final cell of the Jupyter Notebook you turn in. This should include 1) your background in programming prior to this course and 2) a description of how you went above and beyond and/or what you learned in the process of completing the project.
 
 ---
 *This document was originally written by [Severine Soltani](https://github.com/SevSoltani), an awesome COGS 18 Instructional Assistant. Thanks to Severine for taking the time to draft this to help students going forward!*
