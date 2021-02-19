@@ -34,7 +34,7 @@ You could change the names if you'd like or keep them as they are. Just make sur
 Yes, the specific file structure is not important. We care that you have a folder that contains a notebook and a script/module file (or both). Other files can also be included if applicable. Use an oganization structure that makes sense for your project.
 
 #### How/in what format should the files be submitted?
-For submitting your final projects, you will zip up all the files for your project (i.e. Notebook + module directory with tests and functions) and submit the zipped file on Canvas.
+For submitting your final projects, you will either 1) zip up all the files for your project (i.e. Notebook + module directory with tests and functions) and submit the zipped file on Canvas or 2) submit on datahub.
 
 ---
 
@@ -60,7 +60,7 @@ No. This would not require a citation if you're referencing something taught in 
 This is fine and good practice. Including a comment (`#`) with the URL is sufficient for this project. Specify whether you've modified code (changed it) or used it directly - either is fine, but best to be clear about this. You can also mention the sources in the docstring of a function if a major part of that function code was referenced from an external source.
 
 #### Is it okay to use the code from Assignment X as long as I make some modifications? Will I be marked down for not coming up with it on my own?
-This is fine as long as you cite your sources with a comment and write at least 2 original functions that are not from the Assignment.
+This is fine as long as you cite your sources with a comment and write at least 3 original functions that are not from the Assignment.
 
 ---
 
@@ -120,10 +120,10 @@ There are two general approaches (with option 1 being the simpler one):
 ## Submission 
 
 #### Where is the project submitted?
-Canvas.
+Canvas or Datahub.
 
 #### How many times can I submit the project?
-You can submit as many times as you'd like to Canvas, but the most recent submission is what we'll grade.
+You can submit as many times as you'd like, but the most recent submission is what we'll grade.
 
 ---
 

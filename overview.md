@@ -1,6 +1,6 @@
 # Final Project
 
-As part of completing COGS 18, you must complete an independent project. This final project is worth 21% of your grade for the course.
+As part of completing COGS 18, you must complete an independent project. This final project is worth 19% of your grade for the course.
 
 ### Objectives
 
@@ -13,11 +13,10 @@ The broad objectives of this project are for you to:
 
 ### Project Schedule
 
-- W8: Project Description released
+- W7: Project Description released
 - W8: By the end of this week, you must have a project topic / outline
 - W9-10: Work on the project
-  - Coding Lab during Weeks 9-10 will provide you with time to work on and get help with your Final Project.
-- **Finals Week: projects due (11:59 PM, Mon, Dec 14th)**
+- **Finals Week: projects due (11:59 PM, Mon, Mar 15th)**
 
 ### Getting Started
 
@@ -78,7 +77,7 @@ As you work through your project, we recommend taking an approach in which you u
 
 ### Project Requirements
 
-To complete the project you must submit a zip file containing your project, which will include Python code (>=3.6) that implements your project. Your project must include (at least) one Jupyter notebook and one python file (a module file and/or a python script). The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
+To complete the project you must submit your project, which will include Python code (>=3.6) that implements your project. Your project must include (at least) one Jupyter notebook and one python file (a module file and/or a python script). The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
 
 The actual code for the project can be organized into either the notebook, and/or into python files, as either module files and/or scripts. Exactly where and how you organize the code can and should be decided by the project topic itself. For example, projects that are more focused on functions and classes may be more organized into a module organization. For some projects, the code may be well organized into a script that executes your project. For other projects, with more interactive components, much of the code may be presented within the Jupyter notebook. Regardless of the project, the design should be modular and include original code.
 
@@ -86,12 +85,13 @@ Projects are individual, and each person needs to submit a project including (at
 
 ### Submitting Your Project
 
-You will be submitting a zip file containing your project to Canvas. This zip file must be structured in some organized manner. We provide the following as a suggestion, but you can use a different file structure if necessary:
+You will be submitting a zip file containing your project to Canvas or submitting on datahub. This zip file must be structured in some organized manner. We provide the following as a suggestion, but you can use a different file structure if necessary:
 
 MyProjectFolder/  
 
   - ProjectNotebook.ipynb
   - my_module/
+    - classesy.py
     - functions.py
     - test_functions.py
   - scripts/
