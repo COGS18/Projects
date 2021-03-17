@@ -104,8 +104,8 @@ Note that not all of these files / sections are mandatory, and they do not have 
 
 First, make sure everything is organized into a folder, as you want it. Then: 
 
-- On Mac: left click on the folder, and click 'Compress'.
-- On Windows: left click on the folder, go to 'Send To' and select 'Compressed (zipped) folder'.
+- On Mac: right-click on the folder, and click 'Compress'.
+- On Windows: right-click on the folder, go to 'Send To' and select 'Compressed (zipped) folder'.
 
 In both cases, this will create a zip file, with the name 'FolderName.zip'. 
 
@@ -179,7 +179,7 @@ Documentation will be evaluated in terms of:
 
 *Code Tests (10%)*
 
-You must include *at least two* code tests in your project that test your original functions/methods. These should be organized into a test file, in a test folder, and use `pytest`. These tests should be a unit test of your custom functions and/or classes in your project, and should test that the code executes and that at least some of the expected outputs of the function are returned, given some specified inputs.
+You must include *at least three* code tests in your project that test your original functions/methods. These should be organized into a test file, in a test folder, and use `pytest`. These tests should be a unit test of your custom functions and/or classes in your project, and should test that the code executes and that at least some of the expected outputs of the function are returned, given some specified inputs.
 
 *Extra Credit (*up to* 4%)*
 
