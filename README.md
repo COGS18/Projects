@@ -7,6 +7,12 @@ These projects are all strong projects from previous iterations of COGS 18. (Whi
 
 Note: All students whose work is included here gave explicit consent for their GitHub links/projects to be shared. 
 
+#### Winter 2021
+- Lauren : https://github.com/Loonytic/hue-light-notification
+- Nishant : https://github.com/nick5386/pyrhon_project.git
+- Daniela : https://github.com/bydanielasodre/Project_COGS18_WI21/blob/main/ProjectNotebook.ipynb
+
+
 #### Fall 2020
 - Erica: https://github.com/cogsciQueen
 - Jillian: https://github.com/jacarter1/pseudobar/tree/main/JC_FA20_Pseudobar
