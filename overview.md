@@ -1,6 +1,6 @@
 # Final Project
 
-As part of completing COGS 18, you must complete an independent project. This final project is worth 19% of your grade for the course.
+As part of completing COGS 18, you must complete an independent project (or take teh final exam).
 
 ### Objectives
 
@@ -16,11 +16,11 @@ The broad objectives of this project are for you to:
 - W7: Project Description released
 - W8: By the end of this week, you must have a project topic / outline
 - W9-10: Work on the project
-- **Finals Week: projects due (11:59 PM, Mon, Mar 15th)**
+- **Finals Week: projects due**
 
 ### Getting Started
 
-We strongly encourage you to discuss potential project ideas and with your TAs/IAs/instructor through office hours and coding labs (or on Piazza). This will give us a chance to give you feedback and help guide your project plans.
+We strongly encourage you to discuss potential project ideas and with your TAs/IAs/instructor through office hours and coding labs (or on Campuswire). This will give us a chance to give you feedback and help guide your project plans.
 
 Suggestions for working on projects:
 
@@ -61,7 +61,7 @@ This quarter, the Taboo Topics for the COGS18 final project are:
 - Magic 8 Ball
 - Rock, Paper, Scissors
 
-Now, if you have a great or interesting idea that puts a new spin on a a taboo topic, reach out to Professor Ellis and ask for an exception. You'll have to explain your idea. And, if approved, you'll be able to work on your taboo topic of choice!
+Now, if you have a great or interesting idea that puts a new spin on a a taboo topic, reach out to your Professor and ask for an exception. You'll have to explain your idea. And, if approved, you'll be able to work on your taboo topic of choice!
 
 ### Project Scope
 
@@ -85,7 +85,7 @@ Projects are individual, and each person needs to submit a project including (at
 
 ### Submitting Your Project
 
-You will be submitting a zip file containing your project to Canvas or submitting on datahub. This zip file must be structured in some organized manner. We provide the following as a suggestion, but you can use a different file structure if necessary:
+You will be submitting either 1) the project folder on datahub (note all contents of the folder will be submitted when you click submit on datahub) or 2) a zip file containing your project to Canvas. This submitted folder must be structured in some organized manner. We provide the following as a suggestion, but you can use a different file structure if necessary:
 
 MyProjectFolder/  
 
@@ -162,7 +162,7 @@ Structurally, we will be evaluating the following criteria:
 
 - Uses blank lines to separate code elements and logical structure 
 - Uses good indentation & spacing
-- Has 1 statement per line, and max line length of 79 characters
+- Has 1 statement per line, and line length is not too long (~<80 characters)
 
 In terms of naming, we will be evaluating the following criteria: 
 
