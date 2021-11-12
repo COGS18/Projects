@@ -1,6 +1,6 @@
 # Final Project
 
-As part of completing COGS 18, you must complete an independent project (or take teh final exam).
+As part of completing COGS 18, you must complete an independent project (or take the final exam).
 
 ### Objectives
 
@@ -14,7 +14,7 @@ The broad objectives of this project are for you to:
 ### Project Schedule
 
 - W7: Project Description released
-- W8: By the end of this week, you must have a project topic / outline
+- W8: By the end of this week, you should have a project topic / outline
 - W9-10: Work on the project
 - **Finals Week: projects due**
 
@@ -43,7 +43,7 @@ Possible topics:
 - Encryption (A2)
 - Chatbots (A3)
 - Artificial Agents (A4)
-- Data Analysis
+- Data Analysis (A5)
 - Choose your own adventure (propose and develop your own project idea)
 
 There are more detailed project ideas in the `ProjectIdeas` notebook.
@@ -60,6 +60,8 @@ This quarter, the Taboo Topics for the COGS18 final project are:
 - Blackjack
 - Magic 8 Ball
 - Rock, Paper, Scissors
+- Snake Game
+- Connect4 Game 
 
 Now, if you have a great or interesting idea that puts a new spin on a a taboo topic, reach out to your Professor and ask for an exception. You'll have to explain your idea. And, if approved, you'll be able to work on your taboo topic of choice!
 
@@ -91,7 +93,7 @@ MyProjectFolder/
 
   - ProjectNotebook.ipynb
   - my_module/
-    - classesy.py
+    - classes.py
     - functions.py
     - test_functions.py
   - scripts/
@@ -195,7 +197,7 @@ Your project may include external code - that can be code from the course (assig
 
 ##### Course Code
 
-You are welcome and even expected to take code from the course, in particular code from the assignments.
+You are welcome and even expected to take code from the course, in particular code from the assignments. This does not need to be cited, but it also will not count as original/unique code you've written. Note that superficial code changes (i.e. simply changing variable/function names) doe NOT count as making code unique/original.
 
 ##### Code co-developed with other student(s)
 

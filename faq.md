@@ -1,8 +1,8 @@
+<!-- #region -->
 # Project FAQ
 
 This document is meant to answer a number of commonly-asked questions about the COGS 18 final project. We hope you find it helpful as you develop your awesome projects!
 
----
 
 ## File Structure and Requirements 
 
@@ -10,16 +10,16 @@ This document is meant to answer a number of commonly-asked questions about the 
 Yes, you need at least one .py file - either a module or a script. It can have both, but that is not required.
 
 #### What is the difference between a script and a module?
-A module stores functions that you'll want to use later, perhaps in your script or notebook. Scripts include code intended to run from top to bottom and will likely use the functions in your module.
+A module stores functions/classes that you'll want to use later, perhaps in your script or notebook. Scripts include code intended to run from top to bottom and will likely use the functions in your module.
 
 #### How do I create a script or module?
-On Datahub or Anaconda, in the new tab at the top right, select text file. When you save that file, save it with a .py extension.
+On Datahub or Anaconda, in the new tab at the top right, select text file. When you save that file, save it with a .py extension. Alternatively, from the terminal, you can use the `touch` command.
 
 #### What goes in requirements.txt?
 You should mention if you installed any new packages via pip for your project that aren’t included by default in the anaconda distribution/datahub so we'll be able to run your code properly. If you didn't install anything to run your code, you don't need to include this file.
 
 #### How do I install a library?
-Use pip in the terminal. The command will look something like: `pip install --user package`.
+Use pip in the terminal. On datahub, the command will look something like: `pip install --user package`.
 
 #### Is there a set number of functions or classes we need to include?
 You need at least 3 original functions or methods. There is no class requirement. (For example, you could have a single class with 3 methods. Or, no classes and 3 separate functions.)
@@ -37,6 +37,7 @@ Yes, the specific file structure is not important. We care that you have a folde
 For submitting your final projects, you will either 1) zip up all the files for your project (i.e. Notebook + module directory with tests and functions) and submit the zipped file on Canvas or 2) submit on datahub.
 
 ---
+<!-- #endregion -->
 
 ## Importing Modules
 
