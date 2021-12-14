@@ -7,6 +7,20 @@ These projects are all strong projects from previous iterations of COGS 18. (Whi
 
 Note: All students whose work is included here gave explicit consent for their GitHub links/projects to be shared. 
 
+#### Fall 2021:
+- Josh: https://github.com/joshsalce/guess_the_signs
+- Yu: https://github.com/yuzhang123ucsd/COGS18_Project_FA21
+- Rolando: https://github.com/r3marrtin/ZOOINFO-Pilot/
+
+#### Spring 2021:
+- Gabriel: https://github.com/garamoso/COGS18SP21_MinesweeperProject.git
+- Jiayi: https://github.com/vikizzz/Flashcard
+- Shenova: https://github.com/shenova/cogs18project
+- Nathaniel: https://github.com/n1tsai/Lab-Assays
+- Ryan: https://github.com/RyGamer/Project-2048
+- Caitlin: https://github.com/caitlinsprojects-ml/marvel-mania
+- Andrew: https://github.com/pandrew99/cogs18_final_project_presidents_quiz
+
 #### Winter 2021
 - Lauren : https://github.com/Loonytic/hue-light-notification
 - Nishant : https://github.com/nick5386/pyrhon_project.git
