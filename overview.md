@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Final Project
 
 As part of completing COGS 18, you must complete an independent project (or take the final exam).
@@ -18,9 +13,9 @@ The broad objectives of this project are for you to:
 
 ### Project Schedule
 
-- W7: Project Description released
-- W8: By the end of this week, you should have a project topic / outline
-- W9-10: Work on the project
+- W8: Project Description released
+- W9: By the end of this week, you should have a project topic / outline
+- W10: Work on the project
 - **Finals Week: projects due**
 
 ### Getting Started
@@ -84,7 +79,7 @@ As you work through your project, we recommend taking an approach in which you u
 
 ### Project Requirements
 
-To complete the project you must submit your project, which will include Python code (>=3.6) that implements your project. Your project must include (at least) one Jupyter notebook, one python file (a module file and/or a python script), and one test file. The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
+To complete the project you must submit your project, which will include Python code (>=3.6) that implements your project. Your **project must include (at least) one Jupyter notebook, one python file (a module file), and one test file.** The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
 
 The actual code for the project can be organized into either the notebook, and/or into python files, as either module files and/or scripts. Exactly where and how you organize the code can and should be decided by the project topic itself. For example, projects that are more focused on functions and classes may be more organized into a module organization. For some projects, the code may be well organized into a script that executes your project. For other projects, with more interactive components, much of the code may be presented within the Jupyter notebook. Regardless of the project, the design should be modular and include original code.
 

@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 <!-- #region -->
 # Project FAQ
 
@@ -66,7 +61,7 @@ No. This would not require a citation if you're referencing something taught in 
 This is fine and good practice. Including a comment (`#`) with the URL is sufficient for this project. Specify whether you've modified code (changed it) or used it directly - either is fine, but best to be clear about this. You can also mention the sources in the docstring of a function if a major part of that function code was referenced from an external source.
 
 #### Is it okay to use the code from Assignment X as long as I make some modifications? Will I be marked down for not coming up with it on my own?
-This is fine as long as you cite your sources with a comment and write at least 3 original functions that are not from the Assignment.
+This is fine as long as you cite your sources with a comment and write at least 3 original functions/methods that are not from the Assignment.
 
 ---
 
