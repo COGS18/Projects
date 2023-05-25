@@ -20,7 +20,7 @@ The broad objectives of this project are for you to:
 
 ### Getting Started
 
-We strongly encourage you to discuss potential project ideas and with your TAs/IAs/instructor through office hours and coding labs (or on Campuswire). This will give us a chance to give you feedback and help guide your project plans.
+We strongly encourage you to discuss potential project ideas and with your TAs/IAs/instructor through office hours and coding labs (or on Piazza). This will give us a chance to give you feedback and help guide your project plans.
 
 Suggestions for working on projects:
 
@@ -81,7 +81,7 @@ As you work through your project, we recommend taking an approach in which you u
 
 To complete the project you must submit your project, which will include Python code (>=3.6) that implements your project. Your **project must include (at least) one Jupyter notebook, one python file (a module file), and one test file.** The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
 
-The actual code for the project can be organized into either the notebook, and/or into python files, as either module files and/or scripts. Exactly where and how you organize the code can and should be decided by the project topic itself. For example, projects that are more focused on functions and classes may be more organized into a module organization. For some projects, the code may be well organized into a script that executes your project. For other projects, with more interactive components, much of the code may be presented within the Jupyter notebook. Regardless of the project, the design should be modular and include original code.
+Most of the actual code for the project will be organized into python files, as either module files and/or scripts. Exactly where and how you organize the code can and should be decided by the project topic itself. For example, projects that are more focused on functions and classes, all code may be organized into a module. For some projects, the code may be well organized into a script that imports from your module to execute your project. For other projects, with more interactive components, much of the code may be presented within the Jupyter notebook. Regardless of the project, the design should be modular and include original code.
 
 Projects are individual, and each person needs to submit a project including (at least some) unique and original code. Projects can also include code that comes directly from the assignments, and/or from working with other students on project ideas, but this should be clearly marked and attributed in your submissions. More details on external code are included below.
 

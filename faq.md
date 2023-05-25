@@ -1,43 +1,27 @@
-<!-- #region -->
+---
 # Project FAQ
-
 This document is meant to answer a number of commonly-asked questions about the COGS 18 final project. We hope you find it helpful as you develop your awesome projects!
-
-
 ## File Structure and Requirements 
-
 #### Do we still need a .py file if all our code and functions are in a Jupyter notebook?
-Yes, you need at least one .py file - either a module or a script. It can have both, but that is not required.
-
+Yes, you need at least one .py file - a module that stores your code. If all of your code is in your notebook, it's time to reorganize.
 #### What is the difference between a script and a module?
 A module stores functions/classes that you'll want to use later, perhaps in your script or notebook. Scripts include code intended to run from top to bottom and will likely use the functions in your module.
-
 #### How do I create a script or module?
 On Datahub or Anaconda, in the new tab at the top right, select text file. When you save that file, save it with a .py extension. Alternatively, from the terminal, you can use the `touch` command.
-
 #### What goes in requirements.txt?
 You should mention if you installed any new packages via pip for your project that aren’t included by default in the anaconda distribution/datahub so we'll be able to run your code properly. If you didn't install anything to run your code, you don't need to include this file.
-
 #### How do I install a library?
 Use pip in the terminal. On datahub, the command will look something like: `pip install --user package`.
-
 #### Is there a set number of functions or classes we need to include?
 You need at least 3 original functions or methods. There is no class requirement. (For example, you could have a single class with 3 methods. Or, no classes and 3 separate functions.)
-
 #### Can I write my entire project code into one class?
 Yes, as long as the class includes a modular design where there are multiple independent methods.
-
 #### Are we supposed to call our files and directories functions.py, ProjectNotebook.ipynb, etc. or should we call them something related to the project itself?
 You could change the names if you'd like or keep them as they are. Just make sure to import using the correct file names.
-
 #### Can I submit the project using a different file structure than the template provided?
 Yes, the specific file structure is not important. We care that you have a folder that contains a notebook and a script/module file (or both). Other files can also be included if applicable. Use an oganization structure that makes sense for your project.
-
 #### How/in what format should the files be submitted?
 For submitting your final projects, you will either 1) zip up all the files for your project (i.e. Notebook + module directory with tests and functions) and submit the zipped file on Canvas or 2) submit on datahub.
-
----
-<!-- #endregion -->
 
 ## Importing Modules
 
@@ -50,7 +34,6 @@ Check the location of the file that contains your functions. If your my_function
 More resources for importing modules:
 https://docs.python.org/3/tutorial/modules.html
 
----
 
 ## Citations
 
@@ -63,7 +46,6 @@ This is fine and good practice. Including a comment (`#`) with the URL is suffic
 #### Is it okay to use the code from Assignment X as long as I make some modifications? Will I be marked down for not coming up with it on my own?
 This is fine as long as you cite your sources with a comment and write at least 3 original functions/methods that are not from the Assignment.
 
----
 
 ## Documentation and Comments
 
@@ -79,7 +61,6 @@ No need to describe the methods; just describe what the class is used for briefl
 More resources for formatting docstrings:
 https://numpydoc.readthedocs.io/en/latest/format.html#documenting-class-instances
 
----
 
 ## Testing
 
@@ -99,7 +80,6 @@ If you open up a terminal and navigate to the directory where your test function
 The simplest way is to move the user input outside of the function and give it as a parameter to the function. Otherwise, we recommend checking out this link: 
 https://stackoverflow.com/questions/35851323/how-to-test-a-function-with-input-call
 
----
 
 ## DataHub Troubleshooting
 
@@ -116,7 +96,6 @@ There are two general approaches (with option 1 being the simpler one):
 
 2. Use the command line on datahub to zip files up (if you're comfortable with how to do this), and download the zipped file to desktop to submit.
 
----
 
 ## Submission 
 
@@ -126,7 +105,6 @@ Canvas or Datahub.
 #### How many times can I submit the project?
 You can submit as many times as you'd like, but the most recent submission is what we'll grade.
 
----
 
 ## Other Questions
 
@@ -139,5 +117,5 @@ No, all you need to do is make sure to turn in your final project.
 #### How do I specify extra credit?
 There is an extra credit opportunity on the final project. If you go above and beyond the requirements of the project and/or teach yourself something new in the process of completing the final project, explain this in the final cell of the Jupyter Notebook you turn in. This should include 1) your background in programming prior to this course and 2) a description of how you went above and beyond and/or what you learned in the process of completing the project.
 
----
 *This document was originally written by [Severine Soltani](https://github.com/SevSoltani), an awesome COGS 18 Instructional Assistant. Thanks to Severine for taking the time to draft this to help students going forward!*
+---
