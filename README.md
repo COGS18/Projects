@@ -7,6 +7,13 @@ These projects are all strong projects from previous iterations of COGS 18. (Whi
 
 Note: All students whose work is included here gave explicit consent for their GitHub links/projects to be shared. 
 
+#### Spring 2023
+- Von: https://github.com/yvnnng/COGS18-SP23-Proj
+- Josh: https://github.com/Wakwise/The-Arena
+
+#### Winter 2022
+- Mingson: https://github.com/mingsonleung/terminal-weather-app/
+
 #### Fall 2021:
 - Josh: https://github.com/joshsalce/guess_the_signs
 - Yu: https://github.com/yuzhang123ucsd/COGS18_Project_FA21
@@ -66,6 +73,5 @@ Note: All students whose work is included here gave explicit consent for their G
 #### Spring 2019
 - Sarah: https://github.com/SarahAmiraslani/Draw-to-Learn
 - Byungkwon: https://github.com/chrishan0106/cogs18_final
-
 
 
