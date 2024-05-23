@@ -79,7 +79,7 @@ As you work through your project, we recommend taking an approach in which you u
 
 ### Project Requirements
 
-To complete the project you must submit your project, which will include Python code (>=3.6) that implements your project. Your **project must include (at least) one Jupyter notebook, one python file (a module file), and one test file.** The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
+To complete the project you must submit your project, which will include Python code (>=3.6) that implements your project. Your **project must include (at least) one Jupyter notebook, one python file (a module file), and one test file with at least 3 test functions.** The Jupyter notebook file will minimally include a description of the project and code that demonstrates your project, organized in cells.
 
 Most of the actual code for the project will be organized into python files, as either module files and/or scripts. Exactly where and how you organize the code can and should be decided by the project topic itself. For example, projects that are more focused on functions and classes, all code may be organized into a module. For some projects, the code may be well organized into a script that imports from your module to execute your project. For other projects, with more interactive components, much of the code may be presented within the Jupyter notebook. Regardless of the project, the design should be modular and include original code.
 
