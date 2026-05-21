@@ -56,7 +56,7 @@ This is fine as long as you cite your sources with a comment and write at least 
 ## Documentation and Comments
 
 #### Where should I include docstrings and comments?
-Your module with your functions should have docstrings for functions and inline comments as needed. The Notebook would likely then (depending on your project) have a description of your project in a markdown cell, import your functions, and then run your main function to demonstrate how your project works. If you choose to run your project using a script rather than a Notebook, the Notebook should contain a short description of the project and a line of code that runs your script, such as `%run -i 'script.py'` or `!python script.py`. Note that test functions don’t require docstrings, but including them is fine.
+Your module with your functions should have docstrings for functions and inline comments as needed. The Notebook would likely then (depending on your project) have a description of your project in a markdown cell, import your functions, and then run your main function to demonstrate how your project works. If you choose to run your project using a script rather than a Notebook, the Notebook should contain a short description of the project and a line of code that runs your script, such as `%run -i 'script.py'` or `!python script.py`. Note that tests don’t require docstrings, but including them is fine.
 
 #### Do we need a docstring for `__init__` functions of classes?
 Depends on how complicated your `__init__` function is. Can the reader tell at a glance what the init function is doing or which class variables are being set and why? If not, maybe describe those variables in code documentation and have a simple method comment that says "Class constructor for class Foo." When in doubt, make comments!
@@ -71,10 +71,10 @@ https://numpydoc.readthedocs.io/en/latest/format.html#documenting-class-instance
 ## Testing
 
 #### How many tests are needed? Do we need tests for only one function or for all of them in the project?
-You need to test at least three methods/functions, using at least three test functions. These tests should be for your original code.
+You need to use `unittest` to test at least three methods/functions. These tests should be for your original code.
 
 #### I used a function from Assignment X, and I was wondering if I could make a test for that one rather than a function I wrote.
-You may also (and are encouraged to) write test these functions as well; however, your three required tests must test your original code.
+You may also (and are encouraged to) write tests for these as well; however, your required must test your original code.
 
 #### Do we need to import our test functions into our script/Notebook?
 You can leave them in the test file; however, you will need to demonstrate your tests pass in your notebook
