@@ -122,11 +122,11 @@ The code you wrote to implement your design will be graded on the following requ
 
 *Code Style (5%)*
 
-Structurally, we will be evaluating the following criteria:
+Structurally, we will be evaluating that your code uses good code style as discussed in class, for example::
 
 - Uses blank lines to separate code elements and logical structure 
 - Uses good indentation & spacing
-- Has 1 statement per line, and line length is not too long (~<80 characters)
+- Has 1 statement per line, and avoids long lines of code
 
 In terms of naming, we will be evaluating the following criteria: 
 
@@ -143,9 +143,10 @@ Documentation will be evaluated in terms of:
 
 *Code Tests (5%)*
 
-You must include *at least three* code tests in your project that test your original functions/methods. These should be organized into a test file, in a test folder, and use `unittest`. These tests should be a unit test of your custom functions and/or classes in your project, and should test that the code executes and that at least some of the expected outputs of the function are returned, given some specified inputs.
+You must test *at least three* of your original functions/methods. These should be organized into a test file and use `unittest`. These tests should be a unit test of your custom functions and/or classes in your project, and should test that the code executes and that at least some of the expected outputs of the function are returned, given some specified inputs.
 
 *Oral Exams (75%)*
+
 Students who complete a project must sign up for a 15 min oral exam slot during Finals week. In this oral exam students will be asked questions about their submitted code. These questions can include questions including (but not limited to) "Can you explain how this part works?," "What would happen if we wanted change the code to accomplish this - how might we do that?" and "If we changed X, how would that change how your code works?" Students should have the project on their computers open and ready to run/discuss during their oral exam.
 
 *Extra Credit (*up to* 4%)*
